@@ -1,0 +1,26 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore XAMPP / local config
+config.php
+.env
+
+# Ignore logs
+*.log
+
+# Ignore node modules (if any)
+node_modules/
+
+# Ignore vendor (only if composer used)
+vendor/
+
+# Ignore compiled SCSS cache
+.sass-cache/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore temporary files
+*.tmp
+*.swp
