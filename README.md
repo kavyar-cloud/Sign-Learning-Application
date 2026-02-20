@@ -76,3 +76,7 @@ The main objective of this system is to:
 This project aims to empower deaf children by providing accessible and structured language learning resources through a web-based platform. By combining education, healthcare support, and interactive learning, the system contributes to improving communication skills and overall development.
 
 The application is designed to be device-friendly, user-focused, and impactful in supporting early language acquisition and independent learning.
+
+---
+
+Note: This project was developed as part of an academic research initiative.
